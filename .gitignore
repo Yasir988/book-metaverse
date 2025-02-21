@@ -1,0 +1,21 @@
+
+**.gitignore**:
+```gitignore
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Build
+dist/
+.next/
+out/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+.DS_Store
